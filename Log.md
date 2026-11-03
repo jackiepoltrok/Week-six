@@ -7,3 +7,4 @@ I had a really hard time trying to figure out the YOUR TURN #1 block. I tried us
 <img width="830" height="286" alt="Screenshot 2026-11-03 at 1 00 29 PM" src="https://github.com/user-attachments/assets/178a779a-686f-44dc-a55c-9704fa8dc2c4" />
 YOUR TURN #2. I successfully coded a pie chart and I am ecstatic:
 <img width="840" height="840" alt="Mask Site Alaska Findings Pie Chart" src="https://github.com/user-attachments/assets/56ecc0d0-10b3-4564-8f97-e08ef701dad0" />
+YOUR TURN #3. I failed to reject null hypothesis on a number of different questions of connection, but with the trials I became more comfortable with the chi-squared test and understood it better. 
