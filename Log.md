@@ -3,3 +3,5 @@ Ran into a few problems trying the Google Colab notebook this week. For "What ha
 So Gemini tried to help me troubleshoot and I wound up with this:
 <img width="721" height="584" alt="Screenshot 2026-11-03 at 10 23 34 AM" src="https://github.com/user-attachments/assets/8a7022fa-c1e5-4de4-83a7-70dde637b3a2" />
 It goes on for so long.
+I had a really hard time trying to figure out the YOUR TURN #1 block. I tried using the TRBPottery: Neolithic TRB Pottery from Demark data but the way the columns were labeled made it really hard for me to try to organize the data and find trends. I tried repeating some of the exercises from the earlier blocks in the notebook but they could not be applied to the data I was working with. Gemini kept trying to help me trouble shoot, but I think it just getting further away from what I was trying to do and further confusing me:
+<img width="830" height="286" alt="Screenshot 2026-11-03 at 1 00 29 PM" src="https://github.com/user-attachments/assets/178a779a-686f-44dc-a55c-9704fa8dc2c4" />
